@@ -7,7 +7,7 @@
     1.6: 'lazada.py',
     2.1: 'TTCIG_user-agent.py',
     3.1: 'TTCIG_user-agent.py',
-    9: 'LIKE PAGE PRO5 VIP.py',
+    3.2: 'LIKE PAGE PRO5 VIP.py',
     10: 'Tool Share Ảo Cookie [PRO5].py',
     11: 'LIKE_PAGE_BINHLUAN.py',
     12: 'Tool Buff Follow Bằng Page Pro5.py',
