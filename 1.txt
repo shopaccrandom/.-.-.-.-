@@ -1,6 +1,6 @@
 {
-    1: '111.py',
-    2: 'AutoIG1_PC.py',
+    1: 'AutoLinkedin_PC.py',
+    2: 'AUTOGOLIKEIG_V1.py',
     3: 'AutoIG1_PC_User_Agent.py',
     4: 'AUTO-X_PC.py',
     5: 'AutoTheads.py',
