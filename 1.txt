@@ -1,0 +1,17 @@
+{
+    1: '111.py',
+    2: 'AutoIG1_PC.py',
+    3: 'AutoIG1_PC_User_Agent.py',
+    4: 'AUTO-X_PC.py',
+    5: 'AutoTheads.py',
+    6: 'goliketiktok.py',
+    7: 'TTCIG.py',
+    8: 'TTCIG_user-agent.py',
+    9: 'LIKE PAGE PRO5 VIP.py',
+    10: 'Tool Share Ảo Cookie [PRO5].py',
+    11: 'LIKE_PAGE_BINHLUAN.py',
+    12: 'Tool Buff Follow Bằng Page Pro5.py',
+    13: 'GET_NOIDUNGFB.py',
+    14: '[21] Tool Reg Page Pro5.py',
+    15: 'regtiktok.py'
+}
